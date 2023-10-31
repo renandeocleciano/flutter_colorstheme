@@ -1,16 +1,7 @@
 # app_extension
 
-A new Flutter project.
+Color ThemeExtensions
 
-## Getting Started
+## Utilizando ThemeExtensions para alterar as cores do thema padrão (light e dark) do seu app.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![themeExtensions](https://github.com/renandeocleciano/flutter_colorstheme/assets/82148316/bf77307f-e3e0-4a86-9efc-01634847f2cf)
